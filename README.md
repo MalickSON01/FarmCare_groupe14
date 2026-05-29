@@ -19,13 +19,16 @@ Users can create **livestock cycles** for different animal types (chickens, shee
 > ```bash
 > sudo apt-get install python3-tk
 > ```
-
+> On windows just install tkinter via:
+> ```bash
+> pip install tk
+> ```
 ### Steps
 
 1. **Clone or download the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/farmcare.git
-   cd farmcare
+   git clone [https://github.com/MalickSON01/FarmCare_groupe14]
+   cd FarmCare_groupe14
    ```
 
 2. **Run the application**:
