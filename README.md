@@ -1,4 +1,4 @@
-# 🌿 FarmCare — Livestock Management System
+# FarmCare — Livestock Management System
 
 ## 1. Project Title and Description
 
@@ -51,11 +51,11 @@ Users can create **livestock cycles** for different animal types (chickens, shee
   - Remaining = Initial count + Births − Deaths
   - Mortality rate = (Deaths / Initial count) × 100
   - Birth rate = (Births / Initial count) × 100
-- 💉 **Manage vaccines** — record vaccine name, date administered, and next dose date
-- 💊 **Manage treatments** — tablets, vitamins, antibiotics, and other medical treatments
-- ⚠️ **Automatic alerts** — notifications for overdue vaccine reminders
-- 💾 **Auto-save** — all data is persisted locally in a JSON file
-- 🗑️ **Delete a cycle** — with confirmation prompt
+-  **Manage vaccines** — record vaccine name, date administered, and next dose date
+-  **Manage treatments** — tablets, vitamins, antibiotics, and other medical treatments
+-  **Automatic alerts** — notifications for overdue vaccine reminders
+-  **Auto-save** — all data is persisted locally in a JSON file
+-  **Delete a cycle** — with confirmation prompt
 
 ---
 
@@ -151,5 +151,3 @@ farmcare/
 | Member 1 | [@github_member1](https://github.com/) |
 | Member 2 | [@github_member2](https://github.com/) |
 | Member 3 | [@github_member3](https://github.com/) |
-
-> ⚠️ Replace the information above with your group's real names and GitHub profile links.
