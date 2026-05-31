@@ -148,6 +148,9 @@ farmcare/
 
 | Full Name | GitHub Profile |
 |-----------|---------------|
-| Member 1 | [@github_member1](https://github.com/) |
+| SON Maliki| [@MalickSON01](https://github.com/MalickSON01) |
 | Member 2 | [@github_member2](https://github.com/) |
 | Member 3 | [@github_member3](https://github.com/) |
+| Member 2 | [@github_member2](https://github.com/) |
+| Member 3 | [@github_member3](https://github.com/) |
+| Member 2 | [@github_member2](https://github.com/) |
