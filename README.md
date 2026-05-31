@@ -83,6 +83,7 @@ farmcare/
 ├── utils.py          # Utility functions: validation, formatting, constants
 ├── dialogs.py        # Tkinter dialog windows for all user actions
 ├── views.py          # Display panels: cycle list, detail view, alerts window
+├── cli_stats.py      # Command-line tool: input(), while loops, tuple indexing
 │
 ├── farmcare_data.json  # Auto-generated data file (created on first run)
 └── README.md           # This documentation file
@@ -134,17 +135,38 @@ farmcare/
 
 ---
 
-## 7. Acknowledgements
-
+## 7. Python Fundamentals Coverage
+ 
+| Requirement | Where it appears |
+|-------------|-----------------|
+| Variables with `snake_case` and type annotations | All files |
+| `int`, `float`, `str`, `bool` data types | All files |
+| `input()` with type conversion (`int()`) | `cli_stats.py` |
+| f-strings | All files |
+| Arithmetic operations | `models.py` (formulas) |
+| List used meaningfully | `models.py`, `main.py`, `views.py` |
+| Tuple used meaningfully (indexed + iterated) | `cli_stats.py`, `models.py` |
+| Dictionary used meaningfully | `models.py`, `data_manager.py` |
+| `if / elif / else` with `and`, `or`, `not` | `cli_stats.py`, `dialogs.py`, `utils.py` |
+| `for` loop | All files |
+| `while` loop | `cli_stats.py` (main menu + input validation loops) |
+| File handling (read + write) | `data_manager.py` |
+| Imported module used meaningfully | `json`, `os`, `datetime`, `re` |
+| Two or more functions defined and called | `utils.py`, `cli_stats.py` |
+ 
+---
+ 
+## 8. Acknowledgements
+ 
 - Official Python documentation: [https://docs.python.org/3/](https://docs.python.org/3/)
 - Tkinter documentation: [https://docs.python.org/3/library/tkinter.html](https://docs.python.org/3/library/tkinter.html)
 - JSON module documentation: [https://docs.python.org/3/library/json.html](https://docs.python.org/3/library/json.html)
 - Programming I Course — Burkina Institute of Technology (BIT), 2026
 - Lecturer: Ms. Kweyakie Afi Blebo
-
 ---
 
-## 8. Group Members
+
+## 9. Group Members
 
 | Full Name | GitHub Profile |
 |-----------|---------------|
