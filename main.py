@@ -74,11 +74,11 @@ class ApplicationFarmCare:
         cadre_outils.pack(fill="x")
 
         boutons_barre = [
-            ("➕ New Cycle", self._nouveau_cycle, "#4CAF50"),
-            ("🔍 View Detail", self._voir_detail, "#1976D2"),
-            ("⚠️ Alerts", self._afficher_alertes, "#FF6F00"),
-            ("🗑️ Delete", self._supprimer_cycle, "#E53935"),
-            ("💾 Save", self._sauvegarder, "#5D4037"),
+            ("New Cycle", self._nouveau_cycle, "#4CAF50"),
+            ("View Detail", self._voir_detail, "#1976D2"),
+            ("Alerts", self._afficher_alertes, "#FF6F00"),
+            ("Delete", self._supprimer_cycle, "#E53935"),
+            ("Save", self._sauvegarder, "#5D4037"),
         ]
 
         for texte, commande, couleur in boutons_barre:
