@@ -171,8 +171,8 @@ farmcare/
 | Full Name | GitHub Profile |
 |-----------|---------------|
 | SON Maliki| [@MalickSON01](https://github.com/MalickSON01) |
-| SEDOGO Yasminatou | [@yasminatousedogo-cyber](https://github.com/yasminatousedogo-cyber) |
+| SEDOGO Tindsom Yasminatou | [@yasminatousedogo-cyber](https://github.com/yasminatousedogo-cyber) |
 | ZOMA Cyara | [@Cyara02](https://github.com/Cyara02) |
-| ZAGRE Grace | [@Grace-ZAGRE](https://github.com/Grace-ZAGRE) |
-| TONDE Laureine | [@LAUREINE851](https://github.com/LAUREINE851) |
+| ZAGRE Grace Isabelle| [@Grace-ZAGRE](https://github.com/Grace-ZAGRE) |
+| TONDE Pedwende Laureine Marie Leaticia | [@LAUREINE851](https://github.com/LAUREINE851) |
 | ZANGO Salomon | [@salomoramseszango-cyber](https://github.com/salomoramseszango-cyber) |
